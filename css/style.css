@@ -12,3 +12,8 @@
 #gallery {
   background-color: #e2edff;
 }
+
+a {
+ text-decoration: none;
+ color: white;
+}
