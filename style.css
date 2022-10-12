@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+
+* {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+#gallery {
+  background-color: #e2edff;
+}
+
+a {
+ text-decoration: none;
+ color: white;
+}
